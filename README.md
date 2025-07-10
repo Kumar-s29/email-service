@@ -120,6 +120,13 @@ npm test
 - [x] README and documentation
 
 ---
+## ☁️ Live API
+
+📤 `POST /send-email`  
+📥 `GET /status/:id`
+
+🌐 Live: [https://email-service-446f.onrender.com](https://email-service-446f.onrender.com)
+---
 
 ## 👨‍💻 Author
 
